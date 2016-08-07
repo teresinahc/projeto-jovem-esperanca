@@ -1,0 +1,55 @@
+.button, .button:visited{
+  background: #009748;
+}
+
+.button:hover {
+  background: #02823f;
+}
+
+main {
+  background: url(../img/bg.jpg) no-repeat;
+  background-size:100%;
+}
+#header, #summary {
+  text-align: center;
+}
+
+#header {
+  background: #FFF;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  overflow:hidden;
+  padding:20px;
+  margin: 30px  auto;
+}
+
+#summary {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#summary .text {
+  margin: 40px 0px;
+  background-color:rgba(255, 255, 255, 0.75);
+  padding: 15px;
+}
+
+#instagram h4 {
+  margin: 70px 0 50px 0;
+}
+
+#instagram .image-item {
+  margin-bottom: 30px;
+}
+
+footer {
+  background:#000;
+  padding: 10px;
+  margin-top: 40px;
+  color: #FFF;
+}
+
+footer a {
+  color: #009748;
+}

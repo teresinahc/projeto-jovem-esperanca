@@ -1,0 +1,25 @@
+{
+  "name": "projeto-jovem-esperanca",
+  "version": "1.0.0",
+  "description": "Página de doações para o Projeto Jovem Esperança.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teresinahc/projeto-jovem-esperanca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teresinahc/projeto-jovem-esperanca/issues"
+  },
+  "homepage": "https://github.com/teresinahc/projeto-jovem-esperanca#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-notify": "^2.2.0"
+  }
+}

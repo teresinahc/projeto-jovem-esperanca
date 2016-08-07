@@ -1,0 +1,23 @@
+{
+  "name": "projeto-jovem-esperanca",
+  "description": "Página de doações para o Projeto Jovem Esperança.",
+  "main": "index.js",
+  "authors": [
+    "Rafael Guimarães <rafaelguimaraesweb@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/teresinahc/projeto-jovem-esperanca",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "foundation-sites": "^6.2.3",
+    "font-awesome": "^4.6.3",
+    "featherlight": "^1.5.0"
+  }
+}
