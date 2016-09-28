@@ -5,21 +5,21 @@
 ## Steps for run this project
 
 1. Clone this project
-```git clone git@github.com:teresinahc/projeto-jovem-esperanca.git```
+`git clone git@github.com:teresinahc/projeto-jovem-esperanca.git`
 
 2. Enter the project directory
-```cd projeto-jovem-esperenca```
+`cd projeto-jovem-esperenca`
 
 3. Install npm dependencies
-```npm install```
+`npm install`
 
 4. Install bower dependencies
-```bower install```
+`bower install`
 
 5. Run default gulp task
-```gulp```
+`gulp`
 
 For watch changes with gulp
-```gulp watch```
+`gulp watch`
 
 
